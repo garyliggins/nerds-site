@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nerds-site/static/css/main.55a82a3b.css",
-    "main.js": "/nerds-site/static/js/main.e911af93.js",
-    "static/js/453.8737137e.chunk.js": "/nerds-site/static/js/453.8737137e.chunk.js",
-    "static/media/nerds-la-logo.png": "/nerds-site/static/media/nerds-la-logo.37ea00acc50ad1b471ed.png",
-    "index.html": "/nerds-site/index.html",
-    "main.55a82a3b.css.map": "/nerds-site/static/css/main.55a82a3b.css.map",
-    "main.e911af93.js.map": "/nerds-site/static/js/main.e911af93.js.map",
-    "453.8737137e.chunk.js.map": "/nerds-site/static/js/453.8737137e.chunk.js.map"
+    "main.css": "/static/css/main.55a82a3b.css",
+    "main.js": "/static/js/main.d0ca6274.js",
+    "static/js/453.8737137e.chunk.js": "/static/js/453.8737137e.chunk.js",
+    "static/media/nerds-la-logo.png": "/static/media/nerds-la-logo.37ea00acc50ad1b471ed.png",
+    "index.html": "/index.html",
+    "main.55a82a3b.css.map": "/static/css/main.55a82a3b.css.map",
+    "main.d0ca6274.js.map": "/static/js/main.d0ca6274.js.map",
+    "453.8737137e.chunk.js.map": "/static/js/453.8737137e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55a82a3b.css",
-    "static/js/main.e911af93.js"
+    "static/js/main.d0ca6274.js"
   ]
 }
