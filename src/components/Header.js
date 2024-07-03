@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Header.css';
+import logo from '../assets/nerds-la-logo.png'
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -13,7 +14,7 @@ const Header = () => {
     <header>
       <nav>
         <div className="logo">
-          <Link to="/"><img src="images/nerds-la-logo.png" alt="Nerds LA Logo" /></Link>
+        <Link to="/"><img src={logo} alt="Nerds LA Logo" /></Link>
         </div>
         <div className={`menu-toggle ${isOpen ? 'open' : ''}`} onClick={toggleMenu}>
           <div className="bar"></div>
