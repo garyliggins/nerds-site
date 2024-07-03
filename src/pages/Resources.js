@@ -6,7 +6,7 @@ const Resources = () => {
     <div className="events">
       <Helmet>
         <title>
-          Nerds LA - Events
+          Nerds LA - Resources
         </title>
       </Helmet>
       <h1>Resources Page</h1>
